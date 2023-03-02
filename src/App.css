@@ -1,0 +1,9 @@
+body {
+  background-image: url("../public/25140.jpg");
+  background-repeat: no-repeat;
+  background-size:  100% auto;
+}
+
+.App {
+  width: 100%;
+}

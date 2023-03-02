@@ -1,0 +1,28 @@
+.center {
+    margin: auto;
+    width: 85%;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.win {
+    margin: 6em;
+    font-size: large;
+}
+
+#rock {
+    width: 100px;
+    height: auto;
+}
+
+#paper {
+    width: auto;
+    height: 115px;
+}
+
+#scissors {
+    width: auto;
+    height: 120px;
+}
+
